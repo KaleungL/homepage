@@ -29,7 +29,7 @@ layout: default
     <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
-    <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank"><font size="-1">Paper.</font></a>
+    <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank" class="paper-btn"><font size="-1">Paper.</font></a>
     <div class="abstract">
     <p><font size="-1">This paper examines the role of lending relationships in shaping banks' geographic expansion. By tracing the banks' geographic footprints following the U.S. interstate banking deregulation, I find that banks are more likely to enter a new location with a stronger presence of firms from the bank's original neighbourhood. The effects are stronger for banks specialising in commercial lending businesses, consistent with banks leveraging existing firm relationships to facilitate expansion into new markets. Moreover, the presence of old neighbouring firms also lead to higher credit allocation to these locations and stronger economic growth following the deregulation.</font></p>
     </div>
