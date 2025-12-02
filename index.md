@@ -41,6 +41,7 @@ layout: default
     <b>The Financial Transmission of Trade Shocks: Household Credit Channel</b> 
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">Banks can transmit trade shocks across regions and from tradable to non-tradable sectors. This paper studies the response of US banks to the increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and contract their household lendings. Regions with greater reliance on lending from exposed banks have slower employment growth in the non-tradable sectors.</font></p>
     </div>
@@ -52,6 +53,7 @@ layout: default
     <b>Capital Injection: Live Long and Wither</b>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">This paper studies the effects of government bailouts on banks' survival during the crisis. I find that US banks who received capital injections from the Treasury's Capital Purchase Program had a lower failure rate than the non-recipient. However, the rescuing effects dissipate shortly after the peak of the crisis. Meanwhile, capital recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.</font></p>
     </div>
