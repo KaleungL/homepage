@@ -65,7 +65,7 @@ layout: default
 
 <h2>Data Collections</h2>
 
-<p line-height="1"><font size="-1"><i>Acknowledgement: The following projects received financial supports from Washington Center for Equitable Growth and National Science Foundation (NSF Award 1949504) to Princeton Macrofinance Lab. Special thanks to Pallavi Nuka at JRCPPF for tremendous administrative support.</i></font></p>
+<p line-height="1" class="small-text"><i>Acknowledgement: The following projects received financial supports from Washington Center for Equitable Growth and National Science Foundation (NSF Award 1949504) to Princeton Macrofinance Lab. Special thanks to Pallavi Nuka at JRCPPF for tremendous administrative support.</i></p>
 
 <ol>
   
@@ -77,7 +77,7 @@ layout: default
     <b><i class="small-text">NBER Working Paper No. 30578, October 2022.</i></b>
     <br>
     <button class="collapsible">Abstract.</button>
-    <a href="" target="_blank" class="paper-btn"></a>
+    <a href="https://www.nber.org/papers/w30578" target="_blank" class="paper-btn">Paper.</a>
     <div class="abstract">
     <p>The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</p>
     </div>
