@@ -148,3 +148,23 @@ layout: default
   </li>
   
 </ul>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var coll = document.getElementsByClassName("collapsible");
+
+  for (var i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function () {
+      var li = this.closest("li");
+      var content = li.querySelector(".abstract");
+
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+});
+</script>
