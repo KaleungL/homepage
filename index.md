@@ -15,7 +15,7 @@ layout: default
   
 <p>
   My research areas include finance, macroeconomics and labour economics. My current projects investigate the role of banking organisations in the broader economy. 
-  I study why banks thrive or fail, how they respond to policies and regulations, and how their behaviour affects the wellbeing of individuals, households and firms. 
+  I study why banks thrive or fail, how they respond to policies and regulations, and how their behaviour affects the wellbeing of individuals, households, and firms. 
 </p>
 
 
@@ -30,7 +30,7 @@ layout: default
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
     <div class="abstract">
-    <p><font size="-1">This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. Furthermore, the statewide deregulation does not benefit all regions and firms equally. Areas with more "familiar" firms experience more bank entries and higher economic growth. Small businesses do not grow as fast as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and provide guidance for more effective and equitable financial reforms.</font></p>
+    <font size="-1">This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. Furthermore, the statewide deregulation does not benefit all regions and firms equally. Areas with more "familiar" firms experience more bank entries and higher economic growth. Small businesses do not grow as fast as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and provide guidance for more effective and equitable financial reforms.</font>
     </div>
     <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank"><font size="-1">Paper.</font></a>
   </li>
