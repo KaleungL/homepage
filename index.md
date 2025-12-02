@@ -91,7 +91,7 @@ layout: default
     <i class="small-text">(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb and Amir Sufi)</i>
     <br>
     <button class="collapsible">Abstract.</button>
-    <a href="" target="_blank" class="paper-btn"></a>
+    <a href="files/Paper-CBPUserManual.pdf" target="_blank" class="paper-btn">Paper.</a>
     <div class="abstract">
     <p>This user manual provides a detailed documentation of a database containing all CBP datasets published during the first 70 years since its inception. We digitized historical data from physical print, standardized all data format, and imputed undisclosed employment counts. We also document changes in the data structure, industry classifications and county boundaries.</p>
     </div>
@@ -102,10 +102,10 @@ layout: default
   <li>
     <b>Historical Data on Syndicated Loans 1973–1990</b>
     <br>
-    <i>(with Atif Mian, Karsten Müller and Amir Sufi)</i>
+    <i class="small-text">(with Atif Mian, Karsten Müller and Amir Sufi)</i>
     <br>
     <button class="collapsible">Abstract.</button>
-    <a href="" target="_blank" class="paper-btn"></a>
+    <a href="files/Paper-HistoricalSyndicatedLoansData.pdf" target="_blank" class="paper-btn">Paper.</a>
     <div class="abstract">
     <p>We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and the Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </p>
     </div>
