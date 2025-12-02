@@ -29,10 +29,10 @@ layout: default
     <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
-    <div class="abstract">
-    <font size="-1">This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. Furthermore, the statewide deregulation does not benefit all regions and firms equally. Areas with more "familiar" firms experience more bank entries and higher economic growth. Small businesses do not grow as fast as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and provide guidance for more effective and equitable financial reforms.</font>
-    </div>
     <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank"><font size="-1">Paper.</font></a>
+    <div class="abstract">
+    <p><font size="-1">This paper explores how frictions in lending relationships affect banks' geographic expansion. Leveraging the US interstate banking deregulation as a natural experiment, I find that banks are more likely to expand to new locations with a stronger presence of "familiar" firms. These firms already operate in the bank's original neighbourhoods. This finding is consistent with bank-firm lending relationships being local and persistent. Furthermore, the statewide deregulation does not benefit all regions and firms equally. Areas with more "familiar" firms experience more bank entries and higher economic growth. Small businesses do not grow as fast as large firms. These findings highlight the potential limitations of banking deregulation in generating economic growth and provide guidance for more effective and equitable financial reforms.</font></p>
+    </div>
   </li>
   
   <br>
