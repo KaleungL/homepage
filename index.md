@@ -77,6 +77,7 @@ layout: default
      <font size="-1"><i>NBER Working Paper No. 30578, October 2022.</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">The County Business Pattern (CBP) files contain employment and establishment counts for detailed industry codes covering all counties in the United States. The contribution of this project is to digitize, clean, and prepare the CBP files during 1946–1974.</font></p>
     </div>
@@ -90,6 +91,7 @@ layout: default
     <font size="-1"><i>(with Fabian Eckert, Atif Mian, Karsten Müller, Rafael Schwalb and Amir Sufi)</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">This user manual provides a detailed documentation of a database containing all CBP datasets published during the first 70 years since its inception. We digitized historical data from physical print, standardized all data format, and imputed undisclosed employment counts. We also document changes in the data structure, industry classifications and county boundaries. </font></p>
     </div>
@@ -103,6 +105,7 @@ layout: default
     <font size="-1"><i>(with Atif Mian, Karsten Müller and Amir Sufi)</i></font>
     <br>
     <button class="collapsible"><font size="-1">Abstract.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">We tabulate historical data on syndicated loans published on World Bank "Borrowing in International Capital Markets" and the Euromoney magazine. These new data significantly expand the currently available syndicated loan data, and are particularly relevant for research on international banking activities. </font></p>
     </div>
@@ -122,6 +125,7 @@ layout: default
     <b>ECO362 Financial Investments</b>
     <br>
     <button class="collapsible"><font size="-1">Description.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p> <font size="-1">This course is an introduction to financial investments for students with no prior knowledge of finance. It provides an overview of financial markets and instruments including stocks, bonds, futures, options, and other derivatives. A theory of optimal asset allocation teaches the tradeoff between risk and return and the importance of diversification. A theory of asset pricing, developed under the assumption of no arbitrage, is used to evaluate trading strategies and the performance of mutual funds and other asset managers. Key concepts are illustrated through examples and homework exercises that use financial market data.</font></p>
     </div>
@@ -133,6 +137,7 @@ layout: default
     <b>ECO363 Corporate Finance and Financial Institutions</b>
     <br>
     <button class="collapsible"><font size="-1">Description.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">This course examines the determinants of corporate financing decisions and the role of financial institutions in the wider context of the working of financial markets. Topics include capital budgeting, capital structure, risk management, and corporate governance. Additionally, the course introduces various methodologies for valuing individual projects, as well as entire companies.</font></p>
     </div>
@@ -144,6 +149,7 @@ layout: default
     <b>FIN502 Corporate Finance and Financial Accounting</b>
     <br>
     <button class="collapsible"><font size="-1">Description.</font></button>
+    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
     <div class="abstract">
     <p><font size="-1">Major topics in modern corporate finance. We study investment policy (investment decision rules, project valuation, cost of capital) and financial policy (mostly capital structure decisions). Additional topics (private equity, bankruptcy and reorganization, merger and acquisitions) are covered if time permits.</font></p>
     </div>
