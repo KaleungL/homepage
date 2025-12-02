@@ -28,10 +28,10 @@ layout: default
   <li>
     <b>Banks' Geographic Expansion: New Location, Same Old Neighbours</b>
     <br>
-    <button class="collapsible"><font size="-1">Abstract.</font></button>
-    <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank" class="paper-btn"><font size="-1">Paper.</font></a>
+    <button class="collapsible">Abstract.</button>
+    <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank" class="paper-btn">Paper.</a>
     <div class="abstract">
-    <p><font size="-1">This paper examines the role of lending relationships in shaping banks' geographic expansion. By tracing the banks' geographic footprints following the U.S. interstate banking deregulation, I find that banks are more likely to enter a new location with a stronger presence of firms from the bank's original neighbourhood. The effects are stronger for banks specialising in commercial lending businesses, consistent with banks leveraging existing firm relationships to facilitate expansion into new markets. Moreover, the presence of old neighbouring firms also lead to higher credit allocation to these locations and stronger economic growth following the deregulation.</font></p>
+    <p>This paper examines the role of lending relationships in shaping banks' geographic expansion. By tracing the banks' geographic footprints following the U.S. interstate banking deregulation, I find that banks are more likely to enter a new location with a stronger presence of firms from the bank's original neighbourhood. The effects are stronger for banks specialising in commercial lending businesses, consistent with banks leveraging existing firm relationships to facilitate expansion into new markets. Moreover, the presence of old neighbouring firms also lead to higher credit allocation to these locations and stronger economic growth following the deregulation.</p>
     </div>
   </li>
   
@@ -40,10 +40,10 @@ layout: default
   <li>
     <b>The Financial Transmission of Trade Shocks: Household Credit Channel</b> 
     <br>
-    <button class="collapsible"><font size="-1">Abstract.</font></button>
-    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
+    <button class="collapsible">Abstract.</button>
+    <a href="" target="_blank" class="paper-btn"></a>
     <div class="abstract">
-    <p><font size="-1">Banks can transmit trade shocks across regions and from tradable to non-tradable sectors. This paper studies the response of US banks to the increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and contract their household lendings. Regions with greater reliance on lending from exposed banks have slower employment growth in the non-tradable sectors.</font></p>
+    <p>Banks can transmit trade shocks across regions and from tradable to non-tradable sectors. This paper studies the response of US banks to the increase in import competition in the local economy due to China's accession to WTO. I find that exposed banks experience slower growth in deposits and contract their household lendings. Regions with greater reliance on lending from exposed banks have slower employment growth in the non-tradable sectors.</p>
     </div>
   </li>
   
@@ -52,10 +52,10 @@ layout: default
   <li>
     <b>Capital Injection: Live Long and Wither</b>
     <br>
-    <button class="collapsible"><font size="-1">Abstract.</font></button>
-    <a href="" target="_blank" class="paper-btn"><font size="-1"></font></a>
+    <button class="collapsible">Abstract.</button>
+    <a href="" target="_blank" class="paper-btn"></a>
     <div class="abstract">
-    <p><font size="-1">This paper studies the effects of government bailouts on banks' survival during the crisis. I find that US banks who received capital injections from the Treasury's Capital Purchase Program had a lower failure rate than the non-recipient. However, the rescuing effects dissipate shortly after the peak of the crisis. Meanwhile, capital recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.</font></p>
+    <p>This paper studies the effects of government bailouts on banks' survival during the crisis. I find that US banks who received capital injections from the Treasury's Capital Purchase Program had a lower failure rate than the non-recipient. However, the rescuing effects dissipate shortly after the peak of the crisis. Meanwhile, capital recipients also had a substantially higher chance of being acquired, possibly due to political pressures and management inefficiency, resulting in a higher overall exit rate.</p>
     </div>
   </li>
   
