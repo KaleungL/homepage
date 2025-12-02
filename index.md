@@ -158,11 +158,19 @@ document.addEventListener("DOMContentLoaded", function () {
     coll[i].addEventListener("click", function () {
       var li = this.closest("li");
       var content = li.querySelector(".abstract");
+      if (!content) return;
 
-      if (content.style.display === "block") {
-        content.style.display = "none";
+      // ensure it's visible so we can measure scrollHeight
+      content.style.display = "block";
+
+      if (content.style.maxHeight && content.style.maxHeight !== "0px") {
+        // collapse
+        content.style.maxHeight = "0px";
+        this.classList.remove("active");
       } else {
-        content.style.display = "block";
+        // expand to its full content height
+        content.style.maxHeight = content.scrollHeight + "px";
+        this.classList.add("active");
       }
     });
   }
