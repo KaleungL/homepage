@@ -31,7 +31,7 @@ layout: default
     <button class="collapsible">Abstract.</button>
     <a href="files/Paper-BanksGeographicExpansion.pdf" target="_blank" class="paper-btn">Paper.</a>
     <div class="abstract">
-    <p>This paper examines how the spatial distribution of firms shapes banks' geographic expansion following deregulation. I first show that geographic overlap of operating areas between banks and firms is associated with persistent lending relationships. Then, I follow the development of the U.S. interstate banking deregulation, and find that banks are more likely to enter locations with higher shares of firms from their original neighborhood. The effects are stronger for banks focused on commercial \& industrial loans, suggesting that pre-existing lending relationships facilitate entry. Moreover, these locations receive more credits from non-local banks and exhibit stronger employment growth.</p>
+    <p>This paper examines how the spatial distribution of firms shapes banks' geographic expansion following deregulation. I first show that geographic overlap of operating areas between banks and firms is associated with persistent lending relationships. Then, I follow the development of the U.S. interstate banking deregulation, and find that banks are more likely to enter locations with higher shares of firms from their original neighborhood. The effects are stronger for banks focused on commercial & industrial loans, suggesting that pre-existing lending relationships facilitate entry. Moreover, these locations receive more credits from non-local banks and exhibit stronger employment growth.</p>
     </div>
   </li>
   
